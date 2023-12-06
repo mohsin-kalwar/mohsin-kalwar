@@ -2,7 +2,7 @@
 - 👀 I’m interested in wordpress Design and Development
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on basics php pojects
-- 📫 How to reach me....
+
 
 <!---
 mohsin-kalwar/mohsin-kalwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
